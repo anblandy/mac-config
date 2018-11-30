@@ -1,0 +1,1 @@
+echo 'registry=http://registry.npm.taobao.org/' > ~/.npmrc
