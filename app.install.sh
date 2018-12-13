@@ -16,8 +16,9 @@ app10="cheatsheet"
 app11="lantern"
 app12="vlc"
 app13="appcleaner"
+app14="vmware-fusion"
 
-for item in $app1 $app2 $app3 $app4 $app5 $app6 $app7 $app8 $app9 $app10 $app11 $app12 $app13
+for item in $app1 $app2 $app3 $app4 $app5 $app6 $app7 $app8 $app9 $app10 $app11 $app12 $app13 $app14
 do
     brew cask install $item
 done
@@ -36,6 +37,8 @@ done
 # brew cask install vlc
 # brew cask install appcleaner
 brew install node
+brew install wget
+brew install ccat
 # brew install node@10
 # brew install node@8
 # brew install node@6
