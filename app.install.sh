@@ -23,25 +23,9 @@ do
     brew cask install $item
 done
 
-# brew cask install visual-studio-code
-# brew cask install homebrew/cask-fonts/font-fira-code
-# brew cask install webstorm
-# brew cask install pycharm
-# brew cask install macpass
-# brew cask install yinxiangbiji
-# brew cask install sogouinput
-# brew cask install mailmaster
-# brew cask install alfred
-# brew cask install cheatsheet
-# brew cask install lantern
-# brew cask install vlc
-# brew cask install appcleaner
 brew install node
 brew install wget
 brew install ccat
-# brew install node@10
-# brew install node@8
-# brew install node@6
 
 echo 'APPS INSTALL COMPELETE!'
 

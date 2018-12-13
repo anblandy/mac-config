@@ -10,13 +10,3 @@ do
     chmod +x $item
     sh $item
 done
-
-# chmod +x ./init.mac.sh
-# chmod +x $sh1
-# chmod +x 
-# chmod +x .
-# chmod +x 
-# sh ./init.mac.sh
-# sh ./app.install.sh
-# sh ./git.config.sh
-# sh ./npm.config.sh
